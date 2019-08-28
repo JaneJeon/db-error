@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/Vincit/db-errors.svg?branch=master)](https://travis-ci.org/Vincit/db-errors)
-
 # Unified error API for node.js SQL DB drivers
+
+[![Build Status](https://travis-ci.org/Vincit/db-errors.svg?branch=master)](https://travis-ci.org/Vincit/db-errors) [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=JaneJeon/db-error)](https://dependabot.com)
 
 This project is an attempt to create a unified API for node.js SQL DB driver errors. Each driver
 throws their own kind of errors and libraries like knex, Bookshelf and objection.js simply
